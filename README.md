@@ -1,2 +1,2 @@
-# wanderlust
+# Travelgenie
 Created via App Studio
